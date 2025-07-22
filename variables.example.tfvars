@@ -1,0 +1,6 @@
+aws_region                     = "us-east-1"
+access_key                     = "my-aws-access-key"
+secret_key                     = "my-aws-secret-key"
+cidr_blocks_for_vpc            = "10.1.0.0/16"
+cidr_blocks_for_public_subnet  = "10.1.1.0/24"
+cidr_blocks_for_private_subnet = "10.1.2.0/24"
