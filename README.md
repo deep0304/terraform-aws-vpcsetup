@@ -102,6 +102,9 @@ terraform-aws-vpcsetup/
 ```
 
 ---
+```bash
+https://registry.terraform.io/modules/deep0304/vpcsetup/aws/latest
+```
 
 ## 📜 License
 
