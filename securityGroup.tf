@@ -1,4 +1,5 @@
 #------------security-group------#
+
 resource "aws_security_group" "web_sg" {
   name        = "web-server-sg"
   description = "Allow SSH and HTTP"

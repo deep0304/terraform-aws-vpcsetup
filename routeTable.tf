@@ -1,4 +1,5 @@
 #------public-route-table------#
+
 resource "aws_route_table" "public_route_table" {
   vpc_id = aws_vpc.new_vpc_name.id
 

@@ -1,3 +1,4 @@
+#----vpc-----#
 resource "aws_vpc" "new_vpc_name" {
   cidr_block = var.cidr_blocks_for_vpc
   tags = {

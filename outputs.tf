@@ -1,3 +1,4 @@
+#-------outputs----#
 output "vpc_id" {
   value = aws_vpc.new_vpc_name.id
 
