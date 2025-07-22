@@ -42,7 +42,7 @@ This project provisions a custom AWS Virtual Private Cloud (VPC) using **Terrafo
 
 ---
 
-## 📦 Example `main.tf`
+## 📦 Example for using the module -"main.tf" 
 
 ```hcl
 terraform {
